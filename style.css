@@ -1,0 +1,36 @@
+#footer {
+    text-align: center;
+    background-color: gray;
+}
+
+body {
+    background-color: yellow;
+}
+
+h1 {
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h4 {
+    font-weight: 550;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 20%;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#camera {
+    width: 400px;
+    height: 320px;
+    border-color: yellowgreen;
+}
+
+img:hover {
+    transform:scale(1.5)
+}
